@@ -64,9 +64,3 @@ MiniProject/
 - Vite
 - Bootstrap (for some UI elements)
 - Custom CSS
-
-## License
-This project is licensed under the MIT License.
-
----
-Feel free to fork, modify, and contribute!
